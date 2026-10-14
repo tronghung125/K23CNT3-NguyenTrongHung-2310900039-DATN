@@ -167,3 +167,4 @@ D:\Đồ án tốt nghiệp\K23CNT3_NguyenTrongHung_2310900039_ĐATN\DoAnTotNghi
 D:\Đồ án tốt nghiệp\K23CNT3_NguyenTrongHung_2310900039_ĐATN\DoAnTotNghiep\LibriMini.Api\bin\Debug\net10.0\runtimes\win-x64\native\msalruntime.dll
 D:\Đồ án tốt nghiệp\K23CNT3_NguyenTrongHung_2310900039_ĐATN\DoAnTotNghiep\LibriMini.Api\bin\Debug\net10.0\runtimes\win-x86\native\msalruntime_x86.dll
 D:\Đồ án tốt nghiệp\K23CNT3_NguyenTrongHung_2310900039_ĐATN\DoAnTotNghiep\LibriMini.Api\bin\Debug\net10.0\package-lock.json
+D:\Đồ án tốt nghiệp\K23CNT3_NguyenTrongHung_2310900039_ĐATN\DoAnTotNghiep\LibriMini.Api\obj\Debug\net10.0\LibriMini.Api.sourcelink.json

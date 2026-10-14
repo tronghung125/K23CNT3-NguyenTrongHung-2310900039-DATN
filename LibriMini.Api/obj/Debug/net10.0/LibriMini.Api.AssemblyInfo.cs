@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LibriMini.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b27b91980ae2b8a01a18d6dc60826bd262a5709")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibriMini.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibriMini.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
